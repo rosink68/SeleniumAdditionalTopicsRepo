@@ -1,0 +1,23 @@
+<!-- Parent bzw. 1. Element -->
+<EmployeeData>
+
+	<!-- Childs -->
+	<Employee>
+		<Name>Eva</Name>		
+		<Location>Fürth</Location>
+		<Experience>3</Experience>
+	</Employee>
+	
+	<Employee>
+		<Name>Emma</Name>		
+		<Location>Berlin</Location>
+		<Experience>30</Experience>
+	</Employee>
+	
+	<Employee>
+		<Name>Max</Name>		
+		<Location>Leipzig</Location>
+		<Experience>11</Experience>
+	</Employee>
+	
+</EmployeeData>

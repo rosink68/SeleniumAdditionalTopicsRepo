@@ -1,0 +1,52 @@
+<SuiteA>
+
+	<LoginTest>
+	
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>Firefox</Browser>
+			<Username>UserOne</Username>
+			<Password>PasswordOne</Password>
+			<ExpectedResult>PASS</ExpectedResult>
+		</Data>
+	
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>IE</Browser>
+			<Username>UserTwo</Username>
+			<Password>PasswordTwo</Password>
+			<ExpectedResult>FAIL</ExpectedResult>
+		</Data>
+		
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>Chrome</Browser>
+			<Username>UserThree</Username>
+			<Password>PasswordThree</Password>
+			<ExpectedResult>PASS</ExpectedResult>
+		</Data>
+	
+	
+	</LoginTest>
+	
+	<ForgotPasswordTest>
+	
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>Firefox</Browser>
+			<Email>userone@gmail.com</Email>
+			<ExpectedResult>PASS</ExpectedResult>
+		</Data>
+	
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>Chrome</Browser>
+			<Email>usertwo@gmail.com</Email>
+			<ExpectedResult>FAIL</ExpectedResult>
+		</Data>
+		
+	
+	</ForgotPasswordTest>
+
+
+</SuiteA>

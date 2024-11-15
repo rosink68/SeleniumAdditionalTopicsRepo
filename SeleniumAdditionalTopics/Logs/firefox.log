@@ -1,0 +1,26 @@
+1731315244772	geckodriver	INFO	Listening on 127.0.0.1:28826
+1731315244900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "34293" ... ocalhost:34293/,http://[::1]:34293/" "-no-remote" "-profile" "C:\\Users\\rosink\\AppData\\Local\\Temp\\rust_mozprofileCKVZm4"
+console.error: JsonSchemaValidator: 
+  Ignoring parameter "*.sapanalytics.cloud" - not a valid origin.
+console.error: JsonSchemaValidator: 
+  Ignoring parameter "*.hanacloudservices.cloud.sap" - not a valid origin.
+console.error: JsonSchemaValidator: 
+  Ignoring parameter "*.hcs.cloud.sap" - not a valid origin.
+console.error: JsonSchemaValidator: 
+  Ignoring parameter "*.analytics.sapcloud.cn" - not a valid origin.
+console.error: JsonSchemaValidator: 
+  Ignoring parameter "epa.msg.de" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731315245326	Marionette	INFO	Marionette enabled
+1731315245440	Marionette	INFO	Listening on port 62578
+WebDriver BiDi listening on ws://127.0.0.1:34293
+Read port: 62578
+1731315245554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:34293/devtools/browser/aabff5d6-fb75-4cfa-92a7-76092c72afa4
+1731315251329	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:62623
+1731315251331	CDP	WARN	Support for the Chrome DevTools Protocol (CDP) in Firefox will be deprecated after Firefox 128 (ESR) and will be removed in a later release. CDP users should consider migrating to WebDriver BiDi. See https://bugzilla.mozilla.org/show_bug.cgi?id=1872254
+1731315251331	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1731315251357	Marionette	INFO	Stopped listening on port 62578
+Dynamically enable window occlusion 1

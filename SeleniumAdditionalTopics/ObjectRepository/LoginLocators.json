@@ -1,0 +1,22 @@
+{
+
+	"Home_Page" 	: {
+	
+		"MyAccount_Menu" 		:	"LINK;My Account",
+		"Register_MenuOption"	:	"LINK;Register",
+		"Login_MenuOption"		:	"LINK;Login"		
+	},
+		
+	"Login_Page" 	: {
+	
+		"Email_TextBox"			:	"ID;input-email",
+		"Password_TextBox"		:	"ID;input-password",
+		"Login_Button"			:	"CSS;input[type='submit'][value='Login']"
+	},
+	
+	"Account_Page"	: {
+	
+		"RegisterAffiliate_Link":	"LINK;Register for an affiliate account"
+	}
+	
+}
